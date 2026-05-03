@@ -3,8 +3,7 @@ I'm  an aspiring VLSI engineer with strong interest in UVM System verilog,RTL de
 
 
 ## 🌐 Socials:
-www.linkedin.com/in/
-pallavi-s17
+https://www.linkedin.com/in/pallavi-s-065018299
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
